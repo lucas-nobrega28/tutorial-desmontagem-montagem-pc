@@ -33,6 +33,7 @@ Um técnico em manutenção de computadores deve possuir, no mínimo, as seguint
 # Desmontagem do PC Desktop
 
 **Antes de começar, lembre-se de deixar a bancada de manutenção limpa e organizada.**
+![atencao](1.jpeg)
 
  - [ ] **1. Desligar o computador:**
 *Desligue o computador e desconecte todos os cabos e periféricos, como:*
