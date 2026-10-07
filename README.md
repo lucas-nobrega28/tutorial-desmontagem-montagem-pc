@@ -44,18 +44,24 @@ Um técnico em manutenção de computadores deve possuir, no mínimo, as seguint
  - Cabo de alimentação
 
 
+
  - [ ] **2. Remover os parafusos do gabinete:**
 *Remova os parafusos que prendem a tampa do gabinete utilizando a chave adequada. Guarde os parafusos em um local seguro para evitar que sejam perdidos.*
 
  - [ ] **3. Desconectar os conectores da fonte:**
 *Desconecte cuidadosamente os conectores da fonte de alimentação que estão ligados aos componentes internos do computador.*
+![desconectar](11.jpeg)
+
 
  - [ ] **4. Retirar a fonte de alimentação:**
 *Depois de desconectar os cabos, remova os parafusos que prendem a fonte ao gabinete e retire-a cuidadosamente.*
+![retirar](12.jpeg)
+
 
  - [ ]  **5. Desinstalar placas de vídeo e de som:**
 *Desinstale as placas de vídeo e de som **off-board**, caso existam.
 Tenha cuidado para não danificar os conectores das placas.*
+![placa de vídeo](13.jpeg)
 
  - [ ]  **6. Desinstalar outras placas:**
 *Desinstale outras placas conectadas à placa-mãe, caso existam.*
@@ -75,6 +81,8 @@ Tenha cuidado para não danificar os conectores das placas.*
 
 - [ ]  **8. Desconectar os cabos de dados:**
 *Desconecte os cabos de dados conectados à placa-mãe e às unidades de armazenamento.*
+![Cabo de dados](15.jpeg)
+
 
 - [ ]  **9. Remover as unidades de armazenamento:**
 *Desafixe as unidades de armazenamento secundário, como:*
@@ -84,19 +92,31 @@ Tenha cuidado para não danificar os conectores das placas.*
     
 -   Dispositivos ópticos
 *Depois, retire os dispositivos cuidadosamente.*
+![armazenamento](16.jpeg)
+
 
 - [ ]  **10. Remover a memória RAM:**
 *Destrave as presilhas dos slots e retire os módulos de memória RAM. Evite tocar diretamente nos contatos metálicos da memória.*
+![ram](17.jpeg)
+
 
 - [ ] **11. Remover o dissipador e a ventoinha:** 
 *Desinstale o dissipador de calor e a ventoinha do processador. Tenha cuidado ao desconectar o cabo da ventoinha da placa-mãe.*
+![dissipador](18.jpeg)
+![ventoinha](19.jpeg)
+
 
 - [ ] **12. Remover o processador:** 
 *Após retirar o cooler, libere o mecanismo de retenção e retire cuidadosamente o processador da placa-mãe.*
 ***Atenção: O processador possui contatos delicados. Evite tocar diretamente neles e não utilize força excessiva.***
+![processador](2.jpeg)
+
+
 
 - [ ] **13. Remover a placa-mãe:**
 *Retire os parafusos que prendem a placa-mãe ao chassi metálico do gabinete. Depois, retire cuidadosamente a placa-mãe.*
+![placa mae](21.jpeg)
+
 
 - [ ] **14. Realizar a limpeza:**
 *Com os componentes desmontados, realize a limpeza utilizando o pincel e as ferramentas adequadas.
