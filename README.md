@@ -18,8 +18,6 @@ Durante a prática, foram utilizadas diversas ferramentas de manutenção de com
 # Ferramentas necessárias 
 Um técnico em manutenção de computadores deve possuir, no mínimo, as seguintes ferramentas:
 
--   Multímetro
-    
 -   Chave de fenda 3/16"
     
 -   Chave de fenda 1/8"
@@ -27,24 +25,8 @@ Um técnico em manutenção de computadores deve possuir, no mínimo, as seguint
 -   Chave Philips #1
     
 -   Chave Philips #0
-    
--   Extrator de IC
-    
--   Chave de torque T15
-    
--   Chave de fenda soquete 1/4"
-    
--   Chave de fenda soquete 3/16"
-    
--   Chave teste
-    
--   Tubo para acessórios e componentes
-    
--   Alicate de bico longo 5"
-    
+  
 -   Pinça
-    
--   Estojo com zíper
     
 -   Pincel para limpeza
 
@@ -128,21 +110,22 @@ A montagem deve seguir uma sequência organizada para garantir que todos os comp
 
 - [ ] **1. Preparar o gabinete:**
 *Verifique se o gabinete está em boas condições e possui:*
--   Parafusos para fixação da placa-mãe
+- Conexões USB disponíveis;
     
--   Parafusos para fixação da fonte de alimentação
+- Cabos para os LEDs indicadores de funcionamento e atividade;
     
--   Parafusos para fixação das unidades de armazenamento
-    
--   Parafusos para fixação das placas de expansão
-    
--   Conectores para os botões de liga/desliga e reset
-    
--   Conectores para os LEDs de atividade
-    
--   Conectores para áudio e vídeo, caso existam
-    
--   Conectores USB
+- Conectores destinados aos botões de power e reset;
+  
+- Parafusos necessários para instalar os dispositivos de armazenamento;
+  
+- Parafusos adequados para prender as placas de expansão;
+  
+- Kit de parafusos para montagem e fixação da placa-mãe;
+  
+- Parafusos utilizados na instalação da fonte de alimentação;
+  
+- Entradas e conexões de áudio e vídeo, quando disponíveis.
+
 
 - [ ] **2. Fixar a placa-mãe**
 *Posicione a placa-mãe corretamente no chassi metálico do gabinete.
