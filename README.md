@@ -61,7 +61,7 @@ Um técnico em manutenção de computadores deve possuir, no mínimo, as seguint
  - [ ]  **5. Desinstalar placas de vídeo e de som:**
 *Desinstale as placas de vídeo e de som **off-board**, caso existam.
 Tenha cuidado para não danificar os conectores das placas.*
-![placa de vídeo](13.jpeg)
+![placa de vídeo](5.jpeg)
 
  - [ ]  **6. Desinstalar outras placas:**
 *Desinstale outras placas conectadas à placa-mãe, caso existam.*
@@ -102,20 +102,20 @@ Tenha cuidado para não danificar os conectores das placas.*
 
 - [ ] **11. Remover o dissipador e a ventoinha:** 
 *Desinstale o dissipador de calor e a ventoinha do processador. Tenha cuidado ao desconectar o cabo da ventoinha da placa-mãe.*
-![dissipador](18.jpeg)
-![ventoinha](19.jpeg)
+![dissipador](10.jpeg)
+![ventoinha](11.jpeg)
 
 
 - [ ] **12. Remover o processador:** 
 *Após retirar o cooler, libere o mecanismo de retenção e retire cuidadosamente o processador da placa-mãe.*
 ***Atenção: O processador possui contatos delicados. Evite tocar diretamente neles e não utilize força excessiva.***
-![processador](2.jpeg)
+![processador](12.jpeg)
 
 
 
 - [ ] **13. Remover a placa-mãe:**
 *Retire os parafusos que prendem a placa-mãe ao chassi metálico do gabinete. Depois, retire cuidadosamente a placa-mãe.*
-![placa mae](21.jpeg)
+![placa mae](14.jpeg)
 
 
 - [ ] **14. Realizar a limpeza:**
