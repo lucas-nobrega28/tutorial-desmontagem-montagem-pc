@@ -55,7 +55,7 @@ Um técnico em manutenção de computadores deve possuir, no mínimo, as seguint
 
  - [ ] **4. Retirar a fonte de alimentação:**
 *Depois de desconectar os cabos, remova os parafusos que prendem a fonte ao gabinete e retire-a cuidadosamente.*
-![retirar](12.jpeg)
+![retirar](WhatsApp Image 2026-10-06 at 23.49.54.jpeg)
 
 
  - [ ]  **5. Desinstalar placas de vídeo e de som:**
