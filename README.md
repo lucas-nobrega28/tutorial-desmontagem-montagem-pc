@@ -50,12 +50,12 @@ Um técnico em manutenção de computadores deve possuir, no mínimo, as seguint
 
  - [ ] **3. Desconectar os conectores da fonte:**
 *Desconecte cuidadosamente os conectores da fonte de alimentação que estão ligados aos componentes internos do computador.*
-![desconectar](11.jpeg)
+![desconectar](25.jpeg)
 
 
  - [ ] **4. Retirar a fonte de alimentação:**
 *Depois de desconectar os cabos, remova os parafusos que prendem a fonte ao gabinete e retire-a cuidadosamente.*
-![retirar](WhatsApp Image 2026-10-06 at 23.49.54.jpeg)
+![retirar](51.jpeg)
 
 
  - [ ]  **5. Desinstalar placas de vídeo e de som:**
@@ -81,7 +81,7 @@ Tenha cuidado para não danificar os conectores das placas.*
 
 - [ ]  **8. Desconectar os cabos de dados:**
 *Desconecte os cabos de dados conectados à placa-mãe e às unidades de armazenamento.*
-![Cabo de dados](15.jpeg)
+![Cabo de dados](24.jpeg)
 
 
 - [ ]  **9. Remover as unidades de armazenamento:**
@@ -92,7 +92,7 @@ Tenha cuidado para não danificar os conectores das placas.*
     
 -   Dispositivos ópticos
 *Depois, retire os dispositivos cuidadosamente.*
-![armazenamento](16.jpeg)
+![armazenamento](23.jpeg)
 
 
 - [ ]  **10. Remover a memória RAM:**
