@@ -223,10 +223,6 @@ Verifique se todos os conectores estão devidamente encaixados.*
     
 -   Os componentes estão funcionando corretamente.
 
-## Evidências Fotográficas:
-
-
-
 
 ### Integrantes do grupo: 
 - Lucas Emanuel de Lima Nóbrega
